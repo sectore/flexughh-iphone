@@ -6,4 +6,7 @@ Free iPhone app for Flex User Group Hamburg (flexughh)
 @see:   	http://www.websector.de/blog/
 @date:    	01/27/09
 
+Important note: If you got an error such as "CodeSign error: code signing is required ..." you may have change the PROVISIONING_PROFILE within project.pbxproj as described here: http://iphonesdkdev.blogspot.com/2009/01/codesign-error-valid-provisioning.html
+
+
 Have fun!
