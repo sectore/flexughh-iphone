@@ -1,12 +1,13 @@
 Free iPhone app for Flex User Group Hamburg (flexughh)
 
-@see:    	http://flexughh.de/iphone/
+@see:    	http://www.websector.de/blog/2009/01/27/free-iphone-app-for-flex-user-group-hamburg-incl-source-code/
 
 @author: 	Jens Krause [www.websector.de]
 @see:   	http://www.websector.de/blog/
 @date:    	01/27/09
 
-Important note: If you got an error such as "CodeSign error: code signing is required ..." you may have change the PROVISIONING_PROFILE within project.pbxproj as described here: http://iphonesdkdev.blogspot.com/2009/01/codesign-error-valid-provisioning.html
+This project is open source and licensed under the Mozilla Public License 1.1.
 
+Important note: If you got an error such as "CodeSign error: code signing is required ..." building the app, you may have change the PROVISIONING_PROFILE within project.pbxproj as described here: http://iphonesdkdev.blogspot.com/2009/01/codesign-error-valid-provisioning.html
 
 Have fun!
